@@ -1,0 +1,547 @@
+.rectangleDiv {
+    top: 338px;
+    left: 90px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    width: 334px;
+    height: 685px;
+  }
+  .rectangleDiv,
+  .rectangleDiv1,
+  .rectangleSection {
+    position: absolute;
+    background-color: #fff;
+  }
+  .rectangleDiv1 {
+    top: 0;
+    left: 0;
+    border: 0.5px solid rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    width: 1440px;
+    height: 96px;
+  }
+  .rectangleSection {
+    top: 22px;
+    left: 336px;
+    border-radius: 40px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset,
+      0 4px 4px rgba(0, 0, 0, 0.25) inset;
+    width: 532px;
+    height: 53px;
+  }
+  .groupIcon {
+    position: relative;
+    left: 360px;
+    bottom: -30px;
+    height: 0.91%;
+    width: 1.32%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .coursesA,
+  .homeA,
+  .search {
+    position: absolute;
+    top: 37px;
+    font-size: 18px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .search {
+    left: 395px;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .coursesA,
+  .homeA {
+    left: 915px;
+    color: inherit;
+  }
+  .coursesA {
+    left: 1012px;
+  }
+  .groupIcon1 {
+    position: relative;
+    left: 1100px;
+    bottom: -32px;
+    height: 1.4%;
+    width: 2.13%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .rectangleDiv2 {
+    position: absolute;
+    top: 28px;
+    left: 1241px;
+    border-radius: 10px;
+    background-color: #dbdfe8;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+    width: 102px;
+    height: 41px;
+  }
+  .loginDiv {
+    position: absolute;
+    top: 37px;
+    left: 1269px;
+    font-size: 18px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .advanceYourCareerWithNewS,
+  .coursesToGetYouStarted,
+  .designCoursesH3 {
+    margin: 0;
+    font-weight: unset;
+    position: absolute;
+    top: 236px;
+    left: 90px;
+    font-size: 30px;
+    font-family: Raleway;
+    display: inline-block;
+    -webkit-text-stroke: 1px #000;
+  }
+  .advanceYourCareerWithNewS,
+  .designCoursesH3 {
+    top: 1104px;
+  }
+  .designCoursesH3 {
+    font-weight: 500;
+    top: 163px;
+    font-size: 38px;
+  }
+  .rectangleIcon,
+  .rectangleIcon1 {
+    position: absolute;
+    top: 338px;
+    left: 451px;
+    width: 285px;
+    height: 213px;
+    object-fit: cover;
+  }
+  .rectangleIcon1 {
+    top: 713px;
+  }
+  .rectangleIcon2,
+  .rectangleIcon3,
+  .rectangleIcon4,
+  .rectangleIcon5 {
+    position: absolute;
+    top: 338px;
+    left: 757px;
+    width: 286px;
+    height: 213px;
+    object-fit: cover;
+  }
+  .rectangleIcon3,
+  .rectangleIcon4,
+  .rectangleIcon5 {
+    top: 713px;
+  }
+  .rectangleIcon4,
+  .rectangleIcon5 {
+    top: 338px;
+    left: 1065px;
+    width: 285px;
+  }
+  .rectangleIcon5 {
+    top: 713px;
+  }
+  .uIUXDesigningCourse,
+  .uIUXDesigningCourse1,
+  .uIUXDesigningCourse2,
+  .uIUXDesigningCourse3 {
+    position: absolute;
+    top: 577px;
+    left: 456px;
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+  }
+  .uIUXDesigningCourse1,
+  .uIUXDesigningCourse2,
+  .uIUXDesigningCourse3 {
+    top: 952px;
+  }
+  .uIUXDesigningCourse2,
+  .uIUXDesigningCourse3 {
+    top: 577px;
+    left: 757px;
+  }
+  .uIUXDesigningCourse3 {
+    top: 952px;
+  }
+  .rs699A,
+  .rs699A1,
+  .rs699A2,
+  .rs699A3,
+  .rs699A4,
+  .rs699A5,
+  .uIUXDesigningCourse4,
+  .uIUXDesigningCourse5 {
+    position: absolute;
+    top: 577px;
+    left: 1065px;
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+  }
+  .rs699A,
+  .rs699A1,
+  .rs699A2,
+  .rs699A3,
+  .rs699A4,
+  .rs699A5,
+  .uIUXDesigningCourse5 {
+    top: 952px;
+  }
+  .rs699A,
+  .rs699A1,
+  .rs699A2,
+  .rs699A3,
+  .rs699A4,
+  .rs699A5 {
+    top: 618px;
+    left: 456px;
+  }
+  .rs699A1,
+  .rs699A2,
+  .rs699A3,
+  .rs699A4,
+  .rs699A5 {
+    top: 993px;
+  }
+  .rs699A2,
+  .rs699A3,
+  .rs699A4,
+  .rs699A5 {
+    top: 618px;
+    left: 757px;
+  }
+  .rs699A3,
+  .rs699A4,
+  .rs699A5 {
+    top: 993px;
+  }
+  .rs699A4,
+  .rs699A5 {
+    top: 618px;
+    left: 1065px;
+  }
+  .rs699A5 {
+    top: 993px;
+  }
+  .rectangleFooter {
+    position: absolute;
+    top: 1177px;
+    left: 0;
+    background-color: #00053c;
+    width: 1440px;
+    height: 392px;
+  }
+  .rectangleIcon6 {
+    position: absolute;
+    top: 1221px;
+    left: 90px;
+    width: 492px;
+    height: 303px;
+    object-fit: cover;
+  }
+  .rs699P,
+  .uIUXDesigningCourse6 {
+    margin: 0;
+    position: absolute;
+    left: 630px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+    display: inline-block;
+  }
+  .uIUXDesigningCourse6 {
+    top: 1221px;
+    font-family: inherit;
+  }
+  .rs699P {
+    top: 1488px;
+  }
+  .loremIpsumIs {
+    margin-block-start: 0;
+    margin-block-end: 5px;
+  }
+  .yundjkdiIdkdldieDkdldiek {
+    margin: 0;
+  }
+  .loremIpsumIsTheDummyText {
+    margin: 0;
+    position: absolute;
+    top: 1283px;
+    left: 630px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.58);
+    display: inline-block;
+  }
+  .vectorIcon,
+  .vectorIcon1,
+  .vectorIcon2,
+  .vectorIcon3,
+  .vectorIcon4 {
+    position: absolute;
+    height: 1.14%;
+    width: 1.04%;
+    top: 64.84%;
+    right: 2.22%;
+    bottom: 34.02%;
+    left: 96.74%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .vectorIcon1,
+  .vectorIcon2,
+  .vectorIcon3,
+  .vectorIcon4 {
+    right: 96.74%;
+    left: 2.22%;
+  }
+  .vectorIcon2,
+  .vectorIcon3,
+  .vectorIcon4 {
+    height: 0.89%;
+    width: 3.68%;
+    top: 22.69%;
+    right: 80.35%;
+    bottom: 76.43%;
+    left: 15.97%;
+  }
+  .vectorIcon3,
+  .vectorIcon4 {
+    height: 2.14%;
+    width: 18.75%;
+    top: 26.6%;
+    right: 72.78%;
+    bottom: 71.25%;
+    left: 8.47%;
+  }
+  .vectorIcon4 {
+    height: 2.1%;
+    width: 18.68%;
+    top: 26.59%;
+    right: 72.85%;
+    bottom: 71.31%;
+  }
+  .vectorIcon5,
+  .vectorIcon6,
+  .vectorIcon7,
+  .vectorIcon8 {
+    position: absolute;
+    height: 0.67%;
+    width: 0.9%;
+    top: 31.91%;
+    right: 90.59%;
+    bottom: 67.43%;
+    left: 8.51%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .vectorIcon6,
+  .vectorIcon7,
+  .vectorIcon8 {
+    height: 0.71%;
+    width: 1.11%;
+    top: 43.96%;
+    right: 90.52%;
+    bottom: 55.33%;
+    left: 8.37%;
+  }
+  .vectorIcon7,
+  .vectorIcon8 {
+    top: 42.1%;
+    bottom: 57.18%;
+  }
+  .vectorIcon8 {
+    height: 0.67%;
+    width: 0.9%;
+    top: 33.81%;
+    right: 90.59%;
+    bottom: 65.52%;
+    left: 8.51%;
+  }
+  .vectorIcon10,
+  .vectorIcon11,
+  .vectorIcon12,
+  .vectorIcon13,
+  .vectorIcon9 {
+    position: absolute;
+    height: 0.71%;
+    width: 1.11%;
+    top: 47.68%;
+    right: 90.52%;
+    bottom: 51.61%;
+    left: 8.37%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .vectorIcon10,
+  .vectorIcon11,
+  .vectorIcon12,
+  .vectorIcon13 {
+    top: 45.82%;
+    bottom: 53.47%;
+  }
+  .vectorIcon11,
+  .vectorIcon12,
+  .vectorIcon13 {
+    height: 0.67%;
+    width: 0.9%;
+    top: 35.57%;
+    right: 90.59%;
+    bottom: 63.76%;
+    left: 8.51%;
+  }
+  .vectorIcon12,
+  .vectorIcon13 {
+    top: 37.48%;
+    bottom: 61.85%;
+  }
+  .vectorIcon13 {
+    height: 0.81%;
+    width: 2.82%;
+    top: 25.36%;
+    right: 88.7%;
+    bottom: 73.83%;
+    left: 8.48%;
+  }
+  .vectorIcon14,
+  .vectorIcon15,
+  .vectorIcon16,
+  .vectorIcon17 {
+    position: absolute;
+    height: 0.67%;
+    width: 2.7%;
+    top: 29.72%;
+    right: 88.73%;
+    bottom: 69.61%;
+    left: 8.57%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .vectorIcon15,
+  .vectorIcon16,
+  .vectorIcon17 {
+    height: 0.64%;
+    width: 2.55%;
+    top: 39.75%;
+    right: 89.02%;
+    bottom: 59.61%;
+    left: 8.44%;
+  }
+  .vectorIcon16,
+  .vectorIcon17 {
+    height: 1.24%;
+    width: 9.79%;
+    top: 27.03%;
+    right: 80.83%;
+    bottom: 71.73%;
+    left: 9.38%;
+  }
+  .vectorIcon17 {
+    height: 0.72%;
+    width: 3.34%;
+    top: 27.38%;
+    right: 86.64%;
+    bottom: 71.9%;
+    left: 10.02%;
+  }
+  .vectorIcon18,
+  .vectorIcon19,
+  .vectorIcon20,
+  .vectorIcon21 {
+    position: absolute;
+    height: 0.57%;
+    width: 0.83%;
+    top: 27.39%;
+    right: 81.22%;
+    bottom: 72.04%;
+    left: 17.95%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .vectorIcon19,
+  .vectorIcon20,
+  .vectorIcon21 {
+    height: 1.24%;
+    width: 6.32%;
+    top: 31.6%;
+    right: 83.4%;
+    bottom: 67.16%;
+    left: 10.28%;
+  }
+  .vectorIcon20,
+  .vectorIcon21 {
+    height: 0.71%;
+    width: 7.57%;
+    top: 42.13%;
+    right: 81.53%;
+    bottom: 57.15%;
+    left: 10.9%;
+  }
+  .vectorIcon21 {
+    top: 45.85%;
+    bottom: 53.44%;
+  }
+  .vectorIcon22,
+  .vectorIcon23,
+  .vectorIcon24,
+  .vectorIcon25,
+  .vectorIcon26 {
+    position: absolute;
+    height: 0.71%;
+    width: 8.26%;
+    top: 43.99%;
+    right: 81.18%;
+    bottom: 55.29%;
+    left: 10.56%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .vectorIcon23,
+  .vectorIcon24,
+  .vectorIcon25,
+  .vectorIcon26 {
+    top: 47.83%;
+    bottom: 51.45%;
+  }
+  .vectorIcon24,
+  .vectorIcon25,
+  .vectorIcon26 {
+    height: 1%;
+    width: 9.1%;
+    top: 33.65%;
+    right: 80.63%;
+    bottom: 65.35%;
+    left: 10.28%;
+  }
+  .vectorIcon25,
+  .vectorIcon26 {
+    width: 7.01%;
+    top: 35.46%;
+    right: 82.78%;
+    bottom: 63.54%;
+    left: 10.21%;
+  }
+  .vectorIcon26 {
+    height: 1.05%;
+    width: 9.51%;
+    top: 37.46%;
+    right: 80.28%;
+    bottom: 61.49%;
+  }
+  .eLearningDiv {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 1569px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 25px;
+    color: #000;
+    font-family: Futura Md BT;
+  }
+  
